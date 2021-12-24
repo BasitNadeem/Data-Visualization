@@ -4,6 +4,8 @@
 
 One of the key skills of a data scientist is the ability to tell a compelling story, visualizing data and findings in an approachable and stimulating way. Learning how to leverage a software tool to visualize data will also enable you to extract information, better understand the data, and make more effective decisions.
 
-![Data Viz image](https://www.nobledesktop.com/image/pythondataviz.png)
 
-Dataset on Immigration to Canada is used to: 
+<img src="https://www.nobledesktop.com/image/pythondataviz.png" width="600" height="340">
+
+
+Various techniques have been developed for presenting data visually but in this course, we will be using several data visualization libraries in Python, namely **Matplotlib, Seaborn, and Folium.**
